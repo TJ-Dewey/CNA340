@@ -1,14 +1,14 @@
-# Project Title
+# Python Arrow
 
-One Paragraph of project description goes here
+A simple acii graphic generator
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+These instructions will Draw a user defined ascii arrow on your local machine.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Python Arrows requires Python 3 to run, with no additional packages. The commands below will [upgrade OS and install packages 1 & 2] for ease of experimentation with Python Arrow.
 
 ```
 sudo apt update
@@ -20,14 +20,14 @@ sudo apt install package1 package2
 Once installed you can run the program with the following command
 
 ```
-python demo.py
+python arrow.py
 ```
 
 Add any additional ways to run the program below
 
 ```
-python demo.py test.txt
+python arrow.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank you to Coleen Day for teaching the python class, and Zachary Rubin for assistance with GitHub.
